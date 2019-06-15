@@ -1,0 +1,148 @@
+.t1{
+	position:absolute;
+	top:425px;
+	left:75px;
+	font-size:20pt;
+	color:white;
+}
+.t2{
+	position:absolute;
+	top:490px;
+	left:75px;
+	font-size:8pt;
+	color:white;
+}
+body{
+	background:url(fon.png) no-repeat;
+
+}
+.b1{
+	position:absolute;
+	height:40px;
+	width:150px;
+	top:550px;
+	left:75px;
+	color:white;
+	border:1px solid white;
+	border-radius:5%;
+	text-align:center;
+	padding-top:20px
+}
+.b2{
+	position:absolute;
+	height:40px;
+	width:150px;
+	top:550px;
+	left:245px;
+	color:white;
+	border:1px solid white;
+	border-radius:5%;
+	text-align:center;
+	padding-top:20px;
+}
+
+.container{
+	display:flex;
+	left:40px;
+	justify-content:center
+}
+.m1{
+	
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:260px;
+	font-size:20pt;
+	text-align:center;
+
+}
+.m2{
+	padding:10px;
+	background-color:red;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	color:white;
+}
+.m3{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m4{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:55px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m5{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m6{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m7{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:45px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m8{
+	padding:10px;
+	background-color:white;
+	height:35px;
+	width:90px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.m9{
+	padding:10px;
+	background-color:silver;
+	height:35px;
+	width:30px;
+	font-size:15pt;
+	text-align:center;
+	color:black;
+}
+.i1{
+	position:relative;
+	height:15px;
+	width:15px;
+	margin:7px
+}
+.i2{
+	position:relative;
+	height:35px;
+	width:35px;
+}
+.i3{
+	position:absolute;
+	bottom:0px;
+	right:750px;
+	height:550px;
+}
+
